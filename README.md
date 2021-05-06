@@ -1,2 +1,2 @@
-# singup-form
+# signup-form
 Working signup form using PHP
