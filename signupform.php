@@ -55,7 +55,7 @@ Sign up
       }
       ?>
    </div>
-       <form action="singupdb.php" method="POST">
+       <form action="signupdb.php" method="POST">
        <?php
         if(isset($_GET['name'])){
             $name=$_GET['name'];
